@@ -40,7 +40,6 @@ npm start
 Clone the repository and navigate to the directory:
 
 git clone https://github.com/n1co02/express.js-template.git
-cd [repository-directory]
 
 ### Run using Docker:
 

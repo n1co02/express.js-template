@@ -1,4 +1,3 @@
-#Author Nicolas Ostermann
 FROM node:17-alpine
 
 # specify workdirectory o be inside subfolder called app
